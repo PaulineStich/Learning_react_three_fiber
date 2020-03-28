@@ -1,9 +1,15 @@
 # learning-react-three-fiber. 
-Step by step examples on how to use React-Three-Fiber (RTF). 
+Step by step examples on how to use [React-Three-Fiber (RTF)](https://github.com/react-spring/react-three-fiber). 
 
-Work in process. 
-Please note these are examples I've built when learning React-Three-Fiber.  
-Don't consider these as the standards librarys examples.  
+## Work in process.   
+Please note these are small examples I'm still builing following React-Three-Fiber's examples.  
+These are **not** the offical librarys examples.  
+
+## Why?
+React-three-fiber official examples are good, but they are also huge.   
+Instead of building one big thing, I've made smaller step by step code examples when learning React-Three-Fiber.   
+It helped me :)
+
 
 T2: [RTF + basic Cannon](https://codesandbox.io/s/t2-react-three-fiber-cannon-g2q0w).   
 T3: [RTF + basic useGesture](https://codesandbox.io/s/t3-react-three-fiber-usegesture-grewc).   
