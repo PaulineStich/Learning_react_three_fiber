@@ -10,7 +10,7 @@ React-three-fiber official examples are good, but they are also huge.
 Instead of building one big thing, I've made smaller step by step code examples when learning React-Three-Fiber.   
 It helped me :)
 
-T1: [RTF + basic cube](https://codesandbox.io/s/t1-react-three-fiber-xmfqh)
+T1: [RTF + basic cube](https://codesandbox.io/s/t1-react-three-fiber-xmfqh).     
 T2: [RTF + basic Cannon](https://codesandbox.io/s/t2-react-three-fiber-cannon-g2q0w).   
 T3: [RTF + basic useGesture](https://codesandbox.io/s/t3-react-three-fiber-usegesture-grewc).   
 T4: [RTF + basic particles](https://codesandbox.io/s/t4-react-three-fiber-particles-3lzob)    
