@@ -28,43 +28,51 @@ It helped me :)
 ## Step by step examples to learn react-three-fiber
 
 #### r3f + basic cube
-![Basic cube](./images/basicCube.gif).    
-👾 [basic cube → codesandbox](https://codesandbox.io/s/t1-react-three-fiber-xmfqh).   
+
+![Basic cube](./images/basicCube.gif).  
+👾 [basic cube → codesandbox](https://codesandbox.io/s/t1-react-three-fiber-xmfqh).
 
 #### r3f + basic Cannon
+
 ![Basic Cannon](./images/basicCannon.gif).  
-👾 [ basic Cannon → codesandbox](https://codesandbox.io/s/t2-react-three-fiber-cannon-g2q0w).  
+👾 [ basic Cannon → codesandbox](https://codesandbox.io/s/t2-react-three-fiber-cannon-g2q0w).
 
 #### r3f + basic useGesture
+
 ![Basic useGesture](./images/basicUseGesture.gif).  
 👾 [basic useGesture → codesandbox](https://codesandbox.io/s/t3-react-three-fiber-usegesture-grewc).
 
 #### r3f + basic particles
+
 ![Basic particles](./images/basicParticles.gif).  
-👾 [basic particles → codesandbox](https://codesandbox.io/s/t4-react-three-fiber-particles-3lzob) 
+👾 [basic particles → codesandbox](https://codesandbox.io/s/t4-react-three-fiber-particles-3lzob)
 
 #### r3f + basic postprocessing
+
 ![Basic postprocessing](./images/basicPostProcessing.gif).  
-👾 [postprocessing → codesandbox](https://codesandbox.io/s/t5-react-three-fiber-post-processing-khe7l).  
+👾 [postprocessing → codesandbox](https://codesandbox.io/s/t5-react-three-fiber-post-processing-khe7l).
 
 #### r3f + custom postprocessing
-👾 [custom postprocessing → codesandbox](https://codesandbox.io/s/t6-react-three-fiber-custom-post-processing-x3tz7). 
+
+![Custom postprocessing](./images/customShader.gif).  
+👾 [custom postprocessing → codesandbox](https://codesandbox.io/s/t6-react-three-fiber-custom-post-processing-x3tz7).
 
 #### r3f + basic glb
+
 ![Basic glb](./images/basicGlb.gif).  
-👾 [glb → codesandbox](https://codesandbox.io/s/t7-react-three-fiber-glb-edm80). 
+👾 [glb → codesandbox](https://codesandbox.io/s/t7-react-three-fiber-glb-edm80).
 
 #### r3f + basic instancedMesh
+
 ![Basic instancedMesh](./images/instanceMesh.gif).  
-👾 [instancedMesh → codesandbox](https://codesandbox.io/s/t8-react-three-fiber-instancedmesh-rpytg). 
+👾 [instancedMesh → codesandbox](https://codesandbox.io/s/t8-react-three-fiber-instancedmesh-rpytg).
 
 #### r3f + basic shaderMaterial
+
 ![Basic shaderMaterial](./images/shaderMaterial.gif).  
-👾 [shadermaterial → codesandbox](https://codesandbox.io/s/t9-react-three-fiber-shadermaterial-gw4dm). 
+👾 [shadermaterial → codesandbox](https://codesandbox.io/s/t9-react-three-fiber-shadermaterial-gw4dm).
 
 #### r3f + basic dom
+
 ![Basic dom](./images/basicDom.gif).  
 👾 [dom → codesandbox](https://codesandbox.io/s/t10-react-three-fiber-dom-ygu51).
-
-
-
