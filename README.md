@@ -13,6 +13,18 @@ React-three-fiber official examples are good, but they are also huge.
 Instead of building one big thing, I've made smaller step by step code examples when learning React-Three-Fiber.  
 It helped me :)
 
+## Reminder of the Ecosystem
+
+- 🌭 [drei](https://github.com/react-spring/drei), useful helpers for react-three-fiber
+- 💣 [use-cannon](https://github.com/react-spring/use-cannon), physics based hooks
+- 🤳 [react-xr](https://github.com/react-spring/react-xr), VR/AR controllers and events
+- 📬 [react-postprocessing](https://github.com/react-spring/react-postprocessing), post-processing effects
+- 🎮 [gltfjsx](https://github.com/react-spring/gltfjsx), turns GLTFs into JSX components
+- 🐻 [zustand](https://github.com/react-spring/zustand), state management
+- ✌️ [react-spring](https://github.com/react-spring/react-spring), a spring-physics-based animation library
+- 👇 [react-use-gesture](https://github.com/react-spring/react-use-gesture), mouse/touch gestures
+- 🧪 [react-three-gui](https://github.com/ueno-llc/react-three-gui), GUI/debug tools
+
 #### r3f + basic cube
 ![Basic cube](./images/basicCube.gif).    
 👾 [basic cube → codesandbox](https://codesandbox.io/s/t1-react-three-fiber-xmfqh).   
@@ -51,3 +63,6 @@ It helped me :)
 #### r3f + basic dom
 ![Basic dom](./images/basicDom.gif).  
 👾 [dom → codesandbox](https://codesandbox.io/s/t10-react-three-fiber-dom-ygu51).
+
+
+
