@@ -25,6 +25,8 @@ It helped me :)
 - 👇 [react-use-gesture](https://github.com/react-spring/react-use-gesture), mouse/touch gestures
 - 🧪 [react-three-gui](https://github.com/ueno-llc/react-three-gui), GUI/debug tools
 
+## Step by step examples to learn react-three-fiber
+
 #### r3f + basic cube
 ![Basic cube](./images/basicCube.gif).    
 👾 [basic cube → codesandbox](https://codesandbox.io/s/t1-react-three-fiber-xmfqh).   
