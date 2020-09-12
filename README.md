@@ -47,16 +47,6 @@ It helped me :)
 ![Basic particles](./images/basicParticles.gif).  
 👾 [basic particles → codesandbox](https://codesandbox.io/s/t4-react-three-fiber-particles-3lzob)
 
-#### r3f + basic postprocessing
-
-![Basic postprocessing](./images/basicPostProcessing.gif).  
-👾 [postprocessing → codesandbox](https://codesandbox.io/s/t5-react-three-fiber-post-processing-khe7l).
-
-#### r3f + custom postprocessing
-
-![Custom postprocessing](./images/customShader.gif).  
-👾 [custom postprocessing → codesandbox](https://codesandbox.io/s/t6-react-three-fiber-custom-post-processing-x3tz7).
-
 #### r3f + basic glb
 
 ![Basic glb](./images/basicGlb.gif).  
@@ -67,12 +57,27 @@ It helped me :)
 ![Basic instancedMesh](./images/instanceMesh.gif).  
 👾 [instancedMesh → codesandbox](https://codesandbox.io/s/t8-react-three-fiber-instancedmesh-rpytg).
 
+#### r3f + basic dom
+
+![Basic dom](./images/basicDom.gif).  
+👾 [dom → codesandbox](https://codesandbox.io/s/t10-react-three-fiber-dom-ygu51).
+
+#### r3f + loading basic texture
+
+![Basic texture](./images/loading-texture.jpg).  
+👾 [loading texture → codesandbox](https://codesandbox.io/s/r3f-loading-basic-texture-v2obl).
+
 #### r3f + basic shaderMaterial
 
 ![Basic shaderMaterial](./images/shaderMaterial.gif).  
 👾 [shadermaterial → codesandbox](https://codesandbox.io/s/t9-react-three-fiber-shadermaterial-gw4dm).
 
-#### r3f + basic dom
+#### r3f + basic postprocessing
 
-![Basic dom](./images/basicDom.gif).  
-👾 [dom → codesandbox](https://codesandbox.io/s/t10-react-three-fiber-dom-ygu51).
+![Basic postprocessing](./images/basicPostProcessing.gif).  
+👾 [postprocessing → codesandbox](https://codesandbox.io/s/t5-react-three-fiber-post-processing-khe7l).
+
+#### r3f + custom postprocessing
+
+![Custom postprocessing](./images/customShader.gif).  
+👾 [custom postprocessing → codesandbox](https://codesandbox.io/s/t6-react-three-fiber-custom-post-processing-x3tz7).
